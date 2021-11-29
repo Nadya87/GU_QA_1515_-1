@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f3d725b-7fe1-4670-8a3b-c841fdbc590a" name="Changes" comment="" />
+    <list default="true" id="3f3d725b-7fe1-4670-8a3b-c841fdbc590a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geekbrains/java2/lesson1/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekbrains/java2/lesson1/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geekbrains/java2/lesson1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekbrains/java2/lesson1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geekbrains/java2/lesson1/Obstacles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekbrains/java2/lesson1/Obstacles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geekbrains/java2/lesson1/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekbrains/java2/lesson1/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geekbrains/java2/lesson1/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekbrains/java2/lesson1/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/geekbrains/java2/lesson1/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/geekbrains/java2/lesson1/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/geekbrains/java2/lesson1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/geekbrains/java2/lesson1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/geekbrains/java2/lesson1/Obstacles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/geekbrains/java2/lesson1/Obstacles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/geekbrains/java2/lesson1/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/geekbrains/java2/lesson1/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/geekbrains/java2/lesson1/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/geekbrains/java2/lesson1/Team.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +31,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="21NdgndPsbu4uh7kvP4q64FDNYE" />
@@ -29,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -66,5 +85,16 @@
       <updated>1637785595844</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

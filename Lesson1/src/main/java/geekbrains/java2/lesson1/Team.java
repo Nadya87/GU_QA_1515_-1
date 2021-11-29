@@ -1,10 +1,11 @@
 package geekbrains.java2.lesson1;
 
+
 public class Team {
     private String teamName;
 
-    public Runner[] runners = {new Runner("Runner1"), new Runner("Runner2"),
-            new Runner("Runner3"), new Runner("Runner4")};
+    public Runner[] runners = {new Runner("Runner10"), new Runner("Runner20"),
+            new Runner("Runner30"), new Runner("Runner40")};
     public Team(String teamName){
         this.teamName = teamName;
     }

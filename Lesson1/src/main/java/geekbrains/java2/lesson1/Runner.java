@@ -1,5 +1,6 @@
 package geekbrains.java2.lesson1;
 
+
 public class Runner {
     private String runnerName;
     private int time = 0;
