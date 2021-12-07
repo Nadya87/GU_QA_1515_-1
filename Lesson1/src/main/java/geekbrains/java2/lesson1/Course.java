@@ -1,6 +1,5 @@
 package geekbrains.java2.lesson1;
 
-
 public class Course {
         private Obstacles[] poolCourse = {new Obstacles("Obstacle10"),
                 new Obstacles("Obstacle20"), new Obstacles("Obstacle30")};

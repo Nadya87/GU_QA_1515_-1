@@ -1,6 +1,5 @@
 package geekbrains.java2.lesson1;
 
-
 public class Obstacles {
 
         public String obstaclesName;
