@@ -2,7 +2,7 @@ package Lesson5;
 
 import java.util.Arrays;
 
-public class HomeWork {
+public class Main {
 
     public static void main(String[] args) {
         AppData data = new AppData();
